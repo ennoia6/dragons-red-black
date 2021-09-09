@@ -1,0 +1,21 @@
+{
+	"name": "dragons-red-black",
+	"title": "Dice So Nice - Q WORKSHOP Dragons Red Black Dice",
+	"description": "Adds a set of Q WORKSHOP Dragons 3D Dice to Dice-So-Nice ",
+	"version": "0.0.1",
+	"minimumCoreVersion" : "0.7.2",
+	"compatibleCoreVersion" : "0.8.9",
+	"author": "blazej.baleczny@q-workshop.com",
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"scripts": [
+		"dragons-red-black.js"
+	],
+	"url": "https://github.com/ennoia6/dragons-red-black",
+	"manifest": "https://raw.githubusercontent.com/ennoia6/dragons-red-black/master/module.json",
+	"download": "https://github.com/ennoia6/dragons-red-black/raw/master/dragons-red-black.zip"
+}
